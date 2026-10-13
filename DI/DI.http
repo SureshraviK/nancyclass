@@ -1,0 +1,13 @@
+@DI_HostAddress = http://localhost:5103
+
+GET {{DI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+
+GET {{DI_HostAddress}}/api/Msg/
+Accept: application/json
+
+
+
+###

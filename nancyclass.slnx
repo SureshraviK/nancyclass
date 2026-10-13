@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DI/DI.csproj" />
+  <Project Path="nancyclass/nancyclass.csproj" />
+</Solution>
